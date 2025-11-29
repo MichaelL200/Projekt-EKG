@@ -6,3 +6,6 @@ __pycache__/
 # IDE
 .idea/
 *.iml
+
+# Lock files
+.~lock*
