@@ -6,3 +6,4 @@ biosppy
 pdf2image
 Pillow
 ipython
+seaborn
